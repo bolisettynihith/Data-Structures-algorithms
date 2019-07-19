@@ -1,5 +1,3 @@
-Remove Linked List Elements
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
