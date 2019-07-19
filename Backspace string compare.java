@@ -1,6 +1,3 @@
-Backspace string compare
-
-
 class Solution {
     public boolean backspaceCompare(String S, String T) {
         Stack<Character> s = new Stack();
