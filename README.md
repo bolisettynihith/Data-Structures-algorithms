@@ -1,2 +1,5 @@
-# Data-Structures-algorithms
-The Assignments given to me in college
+# ...Data-Structures and Algorithms...
+
+
+
+The Assignments given to me in college.
